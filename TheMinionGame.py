@@ -1,4 +1,5 @@
 def minion_game(string,name1='Stuart',name2='Kevin'):
+    string=string.upper()
     n1=name1 #chooses substring starting with consonants
     p1=0        #points of Player 1
     n2=name2  #chooses substring starting with vowels
