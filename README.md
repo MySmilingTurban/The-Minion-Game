@@ -1,5 +1,5 @@
 # The-Minion-Game
->Creative replacement of Toss
+>**Creative replacement of Toss**
 - Kevin and Stuart are sample players who want to play the **'The Minion Game'**.
 - Player Names can be changed interactively.
 
