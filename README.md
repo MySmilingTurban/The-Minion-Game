@@ -10,7 +10,7 @@ Stuart has to make words starting with consonants.
 Kevin has to make words starting with vowels.
 The game ends when both players have made all possible substrings.
 
-###### Scoring
+##### Scoring
 A player gets +1 point for each occurrence of the substring in the string .
 
 **For Example**:
@@ -24,7 +24,7 @@ For better understanding, see the image below:
 
 ***Your task is to determine the winner of the game and their score.***
 
-###### Function Description
+##### Function Description
 
 minion_game has the following parameters:
 string: the string to analyze
@@ -38,9 +38,9 @@ string: the winner's name and score, separated by a space on one line, or Draw i
 A single line of input containing the string .
 Note: The string  will contain only uppercase letters: .
 
-###### Sample Input
+##### Sample Input
 
 BANANA
-###### Sample Output
+##### Sample Output
 
 Stuart 12
