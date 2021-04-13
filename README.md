@@ -1,14 +1,17 @@
 # The-Minion-Game
-
-Kevin and Stuart want to play the **'The Minion Game'**.
+>The Creative replacement of Toss
+Kevin and Stuart are sample players who want to play the **'The Minion Game'**.
+Custom Player Names can be added interactively.
 
 ##### Game Rules
 
-Both players are given the same string, .
-Both players have to make substrings using the letters of the string .
-Stuart has to make words starting with consonants.
-Kevin has to make words starting with vowels.
-The game ends when both players have made all possible substrings.
+-Number of players - 1 or 2
+-In case of 1 player, 2nd player is Bot by default.
+-Both players are given the same string,
+-Both players have to make substrings using the letters of the string .
+-Stuart has to make words starting with consonants.
+-Kevin has to make words starting with vowels.
+-The game ends when both players have made all possible substrings.
 
 ##### Scoring
 A player gets +1 point for each occurrence of the substring in the string .
@@ -29,14 +32,15 @@ For better understanding, see the image below:
 minion_game has the following parameters:
 string: the string to analyze
 
-***Prints:***
+###### Prints
 
-string: the winner's name and score, separated by a space on one line, or Draw if there is no winner
+The Winner's name and score, separated by a space on one line, 
+*OR* Draw if there is no winner
 
-***Input Format***
+###### Input Format
 
-A single line of input containing the string .
-Note: The string  will contain only uppercase letters: .
+-A single line of input containing the string .
+*Note*: The string  will contain only uppercase letters: .
 
 ##### Sample Input
 
