@@ -1,17 +1,17 @@
 # The-Minion-Game
 >The Creative replacement of Toss
-Kevin and Stuart are sample players who want to play the **'The Minion Game'**.
-Custom Player Names can be added interactively.
+- Kevin and Stuart are sample players who want to play the **'The Minion Game'**.
+- Custom Player Names can be added interactively.
 
 ##### Game Rules
 
--Number of players - 1 or 2
--In case of 1 player, 2nd player is Bot by default.
--Both players are given the same string,
--Both players have to make substrings using the letters of the string .
--Stuart has to make words starting with consonants.
--Kevin has to make words starting with vowels.
--The game ends when both players have made all possible substrings.
+- Number of players - 1 or 2
+- In case of 1 player, 2nd player is Bot by default.
+- Both players are given the same string,
+- Both players have to make substrings using the letters of the string .
+- Stuart has to make words starting with consonants.
+- Kevin has to make words starting with vowels.
+- The game ends when both players have made all possible substrings.
 
 ##### Scoring
 A player gets +1 point for each occurrence of the substring in the string .
