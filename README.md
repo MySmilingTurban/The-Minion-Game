@@ -1,7 +1,7 @@
 # The-Minion-Game
 >Creative replacement of Toss
 - Kevin and Stuart are sample players who want to play the **'The Minion Game'**.
-- Custom Player Names can be added interactively.
+- Player Names can be changed interactively.
 
 ##### Game Rules
 
@@ -17,10 +17,14 @@
 A player gets +1 point for each occurrence of the substring in the string .
 
 **For Example**:
-- String  = BANANA
-- Kevin's vowel beginning word = ANA
 
-Here, ANA occurs twice in BANANA. Hence, Kevin will get 2 Points.
+String  = BANANA
+
+Kevin's vowel beginning word = ANA
+
+Here, ANA occurs twice in BANANA. 
+
+Hence, Kevin will get 2 Points.
 
 - For better understanding, see the image below:
 
@@ -30,18 +34,22 @@ Here, ANA occurs twice in BANANA. Hence, Kevin will get 2 Points.
 
 ##### Function Description
 
-minion_game has the following parameters:
-string: the string to analyze
+- minion_game has the following parameters:
+- string: the string to analyze
 
 ###### Prints
 
 The Winner's name and score, separated by a space on one line, 
+
 *OR* Draw if there is no winner
 
 ###### Input Format
 
--A single line of input containing the string .
-*Note*: The string  will contain only uppercase letters: .
+- First line of input contains the string.
+- Second line of input contains name of Player 1. {By default - Stuart}
+- Third line of input contains name of Player 2. {By default - Kevin}
+
+*Note*: The string will contain only uppercase letters .
 
 ##### Sample Input
 
