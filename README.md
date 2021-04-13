@@ -1,5 +1,5 @@
 # The-Minion-Game
->The Creative replacement of Toss
+>Creative replacement of Toss
 - Kevin and Stuart are sample players who want to play the **'The Minion Game'**.
 - Custom Player Names can be added interactively.
 
@@ -17,11 +17,12 @@
 A player gets +1 point for each occurrence of the substring in the string .
 
 **For Example**:
-String  = BANANA
-Kevin's vowel beginning word = ANA
+- String  = BANANA
+- Kevin's vowel beginning word = ANA
+
 Here, ANA occurs twice in BANANA. Hence, Kevin will get 2 Points.
 
-For better understanding, see the image below:
+- For better understanding, see the image below:
 
 ![image](https://user-images.githubusercontent.com/51584037/114600652-34dde080-9cb2-11eb-92fd-099ff86883ce.png)
 
